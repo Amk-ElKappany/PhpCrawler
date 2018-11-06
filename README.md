@@ -1,6 +1,6 @@
 # Php Crawler Task
 #### Internsvalley's Tasks - PHP Backend Developer Application
-<a href="http://internsvalleytask.emangqa.com/"><b>LUNCH A DEMO FROM HERE</b></a>
+<a href="http://internsvalleytask.emangqa.com/" target="_blank"><b>LUNCH A DEMO FROM HERE</b></a>
 <hr/>
 <br/>
 <h3>The Task</h3>
